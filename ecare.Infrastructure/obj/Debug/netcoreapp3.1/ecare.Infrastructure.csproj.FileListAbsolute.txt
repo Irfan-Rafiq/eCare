@@ -1,0 +1,12 @@
+G:\SIT Tek\eCare\ecare.Infrastructure\obj\Debug\netcoreapp3.1\ecare.Infrastructure.csprojAssemblyReference.cache
+G:\SIT Tek\eCare\ecare.Infrastructure\obj\Debug\netcoreapp3.1\ecare.Infrastructure.csproj.CoreCompileInputs.cache
+G:\SIT Tek\eCare\ecare.Infrastructure\obj\Debug\netcoreapp3.1\ecare.Infrastructure.AssemblyInfoInputs.cache
+G:\SIT Tek\eCare\ecare.Infrastructure\obj\Debug\netcoreapp3.1\ecare.Infrastructure.AssemblyInfo.cs
+G:\SIT Tek\eCare\ecare.Infrastructure\bin\Debug\netcoreapp3.1\ecare.Infrastructure.deps.json
+G:\SIT Tek\eCare\ecare.Infrastructure\bin\Debug\netcoreapp3.1\ecare.Infrastructure.dll
+G:\SIT Tek\eCare\ecare.Infrastructure\bin\Debug\netcoreapp3.1\ecare.Infrastructure.pdb
+G:\SIT Tek\eCare\ecare.Infrastructure\bin\Debug\netcoreapp3.1\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Infrastructure\bin\Debug\netcoreapp3.1\ecare.Domain.pdb
+G:\SIT Tek\eCare\ecare.Infrastructure\obj\Debug\netcoreapp3.1\ecare.Infrastructure.csproj.CopyComplete
+G:\SIT Tek\eCare\ecare.Infrastructure\obj\Debug\netcoreapp3.1\ecare.Infrastructure.dll
+G:\SIT Tek\eCare\ecare.Infrastructure\obj\Debug\netcoreapp3.1\ecare.Infrastructure.pdb

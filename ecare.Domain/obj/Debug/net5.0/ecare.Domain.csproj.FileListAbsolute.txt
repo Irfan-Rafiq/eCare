@@ -1,0 +1,15 @@
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\net5.0\ecare.Domain.deps.json
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\net5.0\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\net5.0\ref\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\net5.0\ecare.Domain.pdb
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.csproj.AssemblyReference.cache
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.AssemblyInfoInputs.cache
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.AssemblyInfo.cs
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.csproj.CoreCompileInputs.cache
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ref\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.pdb
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\net5.0\ecare.Domain.runtimeconfig.json
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\net5.0\ecare.Domain.runtimeconfig.dev.json
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\net5.0\ecare.Domain.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\netcoreapp3.1\ecare.Domain.deps.json
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\netcoreapp3.1\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Domain\bin\Debug\netcoreapp3.1\ecare.Domain.pdb
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\netcoreapp3.1\ecare.Domain.csprojAssemblyReference.cache
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\netcoreapp3.1\ecare.Domain.csproj.CoreCompileInputs.cache
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\netcoreapp3.1\ecare.Domain.AssemblyInfoInputs.cache
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\netcoreapp3.1\ecare.Domain.AssemblyInfo.cs
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\netcoreapp3.1\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Domain\obj\Debug\netcoreapp3.1\ecare.Domain.pdb

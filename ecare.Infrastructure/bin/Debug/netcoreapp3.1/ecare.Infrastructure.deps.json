@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ecare.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ecare.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ecare.Infrastructure.dll": {}
+        }
+      },
+      "ecare.Domain/1.0.0": {
+        "runtime": {
+          "ecare.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ecare.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ecare.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

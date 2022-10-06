@@ -1,0 +1,15 @@
+G:\SIT Tek\eCare\ecare.Architecture\bin\Debug\net5.0\ecare.Architecture.deps.json
+G:\SIT Tek\eCare\ecare.Architecture\bin\Debug\net5.0\ecare.Architecture.dll
+G:\SIT Tek\eCare\ecare.Architecture\bin\Debug\net5.0\ref\ecare.Architecture.dll
+G:\SIT Tek\eCare\ecare.Architecture\bin\Debug\net5.0\ecare.Architecture.pdb
+G:\SIT Tek\eCare\ecare.Architecture\bin\Debug\net5.0\ecare.Domain.dll
+G:\SIT Tek\eCare\ecare.Architecture\bin\Debug\net5.0\ecare.Domain.pdb
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.csproj.AssemblyReference.cache
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.AssemblyInfoInputs.cache
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.AssemblyInfo.cs
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.csproj.CoreCompileInputs.cache
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.csproj.CopyComplete
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.dll
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ref\ecare.Architecture.dll
+G:\SIT Tek\eCare\ecare.Architecture\obj\Debug\net5.0\ecare.Architecture.pdb
